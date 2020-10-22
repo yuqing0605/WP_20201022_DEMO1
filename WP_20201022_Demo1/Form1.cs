@@ -16,5 +16,10 @@ namespace WP_20201022_Demo1
         {
             InitializeComponent();
         }
+
+        private void btnGo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
