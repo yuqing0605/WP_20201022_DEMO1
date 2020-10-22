@@ -19,7 +19,7 @@ namespace WP_20201022_Demo1
 
         private void btnGo_Click(object sender, EventArgs e)
         {
-
+            rtbMsg.Text = "AAAAA";
         }
     }
 }
